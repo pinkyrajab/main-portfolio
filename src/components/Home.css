@@ -1,0 +1,14 @@
+.body{
+    background-color: black;
+    color: white!important;
+}
+.profile{
+    /* background-image: url(/src/assets/images/Hemmingways1.jpeg);
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(/src/assets/images/Hemmingways1.jpeg) no-repeat ; */
+    background-size: cover;
+    
+}
+.Hello{
+    /* font-family: 'Playpen Sans', cursive; */
+    font-size: 30px;
+}

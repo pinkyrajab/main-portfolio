@@ -1,0 +1,14 @@
+
+.navbar-brand{
+    color: orange!important;
+    font-family: 'MonteCarlo', cursive!important;
+    font-size:40px!important;
+}
+.navbar-toggler{
+    border-style: none!important;
+    /* margin-right: 100px!important; */
+    text-decoration: none;
+}
+.navbar-toggler:hover{
+    color: orangered;
+}
