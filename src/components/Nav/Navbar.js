@@ -28,9 +28,9 @@ export function Navbar(){
                 </div>
             </div>
             </nav> */}
-            <nav class="navbar navbar-dark bg-dark sticky-top" style={{marginBottom:"30px"}}>
+            <nav class="navbar navbar-dark " style={{marginBottom:"5px"}}>
                 <div class="container-fluid">
-                <a class="navbar-brand" style={{paddingLeft:"150px"}}>Amina Rajab</a>
+                <a class="navbar-brand" style={{paddingLeft:"150px",paddingTop:"40px"}}>Amina Rajab</a>
                     <a class="navbar-toggler"  type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
                     <span >Menu</span>
                     </a>
@@ -47,7 +47,13 @@ export function Navbar(){
                         <li class="nav-item">
                             <a class="nav-link" href="#">Projects</a>
                         </li>
-                        <li class="nav-item dropdown">
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact</a>
+                        </li>
+                        {/* <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                             Services Offered
                             </a>
@@ -59,7 +65,7 @@ export function Navbar(){
                             </li>
                             <li><a class="dropdown-item" href="#">Something else here</a></li>
                             </ul>
-                        </li>
+                        </li> */}
                         </ul>
                     </div>
                     </div>

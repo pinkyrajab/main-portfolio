@@ -6,8 +6,9 @@
 }
 .navbar-toggler{
     border-style: none!important;
-    /* margin-right: 100px!important; */
+    margin-right: 150px!important;
     text-decoration: none;
+    font-size:medium!important;
 }
 .navbar-toggler:hover{
     color: orangered;
